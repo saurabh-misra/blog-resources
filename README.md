@@ -18,3 +18,6 @@ A list of tools, wesbites and apps useful for blogging.
 
 ### Compression
 - [TinyJPG](https://tinyjpg.com/)
+
+### Note-taking
+- [Stashpad](https://www.stashpad.com/)
