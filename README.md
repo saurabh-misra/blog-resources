@@ -21,3 +21,7 @@ A list of tools, wesbites and apps useful for blogging.
 
 ### Make Money from Blogging
 [Who Pays Technical Writers by Philip Kiely](https://whopaystechnicalwriters.com/?)
+
+### Tech Writing Support Resources
+[Technical Writing Courses by Google](https://developers.google.com/tech-writing)
+[Writing for Software Developers book by Philip Kiely](https://philipkiely.com/wfsd/)
