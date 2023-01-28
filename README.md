@@ -19,5 +19,5 @@ A list of tools, wesbites and apps useful for blogging.
 ### Compression
 - [TinyJPG](https://tinyjpg.com/)
 
-### Note-taking
-- [Stashpad](https://www.stashpad.com/)
+### Make Money from Blogging
+[Who Pays Technical Writers by Philip Kiely](https://whopaystechnicalwriters.com/?)
