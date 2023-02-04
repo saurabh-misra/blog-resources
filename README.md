@@ -16,6 +16,7 @@ A list of tools, wesbites and apps useful for blogging.
 - [ExcaliDraw](https://excalidraw.com/)
 - [Pablo](https://pablo.buffer.com/)
 - [DesignFeed](http://designfeed.io)
+- [BrowserFrame](https://browserframe.com/)
 
 ### Compression
 - [TinyJPG](https://tinyjpg.com/)
