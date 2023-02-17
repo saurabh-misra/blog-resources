@@ -3,7 +3,8 @@ A list of tools, wesbites and apps useful for blogging.
 
 ### SEO
 - [Google SERP Snippet Optimization Tool](https://serpsim.com/)
-- [Headline Analyzer](https://coschedule.com/headline-analyzer)
+- [Co-schedule-Headline Analyzer](https://coschedule.com/headline-analyzer)
+- [Monster Insights-Headline Analyzer](https://www.monsterinsights.com/headline-analyzer/)
 - [Google Keyword Planner](https://ads.google.com/home/tools/keyword-planner/)
 
 ### Media
